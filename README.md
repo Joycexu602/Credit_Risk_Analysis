@@ -1,2 +1,1 @@
-# Credit_Risk_Analysis
-Credit Risk Analysis using ML techniques
+# Home Credit - Probability of default prediction
